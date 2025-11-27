@@ -67,7 +67,7 @@ public class GraphicalUserInterface extends Application {
         statusLabel.setWrapText(true);
     }
 
-   //Organizes elements in a vertical layout
+    //Organizes elements in a vertical layout
     private void setupMainLayout() {
         mainLayout = new VBox(10);
         mainLayout.setPadding(new Insets(10));
